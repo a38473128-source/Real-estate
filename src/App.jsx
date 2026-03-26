@@ -34,6 +34,7 @@ import Foot from "./Components/Foot";
 import foot1 from "./assets/facebook-brands-solid-full (1).svg";
 import foot2 from "./assets/instagram-brands-solid-full (1).svg";
 import foot3 from "./assets/x-twitter-brands-solid-full (1).svg";
+import AboutUs from "./Components/AboutUs";
 
 const icons = [
   {

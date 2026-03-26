@@ -2,6 +2,10 @@
   font-family: lato;
   src: url("./fonts/Mada-VariableFont_wght.ttf");
 }
+*{
+  box-sizing: border-box;
+  text-decoration: none;
+}
 .fontfont {
   font-family: lato;
 }

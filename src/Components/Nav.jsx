@@ -1,5 +1,6 @@
 import logo from "../assets/accusoft-brands-solid-full.svg";
 import styles from "../style.module.css";
+import "./index.css"
 export default function Nav() {
   return (
     <nav
@@ -40,12 +41,6 @@ export default function Nav() {
         </a>
         <a href=""className={`${styles.font} ${styles.change}`}>
           PROPERTY
-        </a>
-        <a href=""className={`${styles.font} ${styles.change}`}>
-          PAGE
-        </a>
-        <a href=""className={`${styles.font} ${styles.change}`}>
-          BLOG
         </a>
         <a href="" className={`${styles.font} ${styles.change}`}>
           CONTACT
